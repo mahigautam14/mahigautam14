@@ -1,25 +1,364 @@
-<h1 align="center">Hi 👋, I'm Mahi</h1>
-<h3 align="center">I'm a student at NIT Raipur</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahigautam14&label=Profile%20views&color=0e75b6&style=flat" alt="mahigautam14" /> </p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGhxN3RmNnEydTBveTdyYTZramE3YWpjdTI4MXB5eTRrdWZrMGV3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ekjmhJUGHJm7FC4Juo/giphy.gif">
-
-
-
-🔭 I’m currently working on Human Activity Recognition Capturing Using Wi-Fi CSI and ESP32
-🌱 I’m currently learning Machine Learning, Deep Learning, LLMs, GraphRAG, ReactJS, and Shell Scripting
-👯 I’m looking to collaborate on AI/ML, IoT, and Web Development projects
-🤝 I’m looking for help with GraphRAG integration and improving my Human Activity Recognition research project
-💬 Ask me about Python, Java, C++, Web Development, AI/ML, IoT, and Email Marketing
-📫 How to reach me mahigautam7991@gmail.com
-📄 Know about my experiences https://drive.google.com/file/d/1XTdoGkCLrM2WVXG7vWJPCLzgvDFzxBNd/view?usp=sharing
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahi-gautam-7b6508252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahi-gautam-7b6508252/" height="30" width="40" /></a>
-<a href="https://instagram.com/mahiiveeee_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahiiveeee_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mahigautam14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahigautam14" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4f46e5,100:8b5cf6&height=240&section=header&text=Mahi%20Gautam&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20%7C%20AI%2FML%20%7C%20Full%20Stack%20%7C%20IoT&descAlignY=56&descSize=18" />
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahigautam14&show_icons=true&locale=en&layout=compact" alt="mahigautam14" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahigautam14&" alt="mahigautam14" /></p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=980&lines=Software+Engineering+%7C+AI%2FML+%7C+Full+Stack+%7C+IoT;Building+privacy-aware+systems+with+research+and+product+thinking;Human+Activity+Recognition+using+Wi-Fi+CSI+%26+ESP32;Machine+Learning%2C+Deep+Learning%2C+LLMs+%26+GraphRAG" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MCA-NIT%20Raipur-7c3aed?style=flat-square" />
+  <img src="https://img.shields.io/badge/B.Sc.-Bundelkhand%20University-6366f1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Higher%20Secondary-Government%20Girls%20Inter%20College-8b5cf6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Noida%2C%20Delhi%20NCR-0ea5e9?style=flat-square" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/mahigautam14?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-GitHub%20Repositories-4f46e5?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mahi-gautam-7b6508252/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Mahi%20Gautam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mahigautam5521@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/mahigautam14" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-mahigautam14-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahigautam14&label=Profile%20views&color=7c3aed&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/mahigautam14?label=Followers&style=flat-square&color=6366f1" alt="followers" />
+  <img src="https://img.shields.io/badge/Stars-Premium%20Portfolio-8b5cf6?style=flat-square" alt="stars" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./light_mode.svg" />
+    <img alt="mahigautam14's GitHub profile" src="./dark_mode.svg" width="100%" />
+  </picture>
+</p>
+
+---
+
+## About
+
+<table>
+<tr>
+<td width="67%" valign="top">
+
+I am an MCA student at **National Institute of Technology, Raipur** with a strong focus on **software engineering, AI/ML, full-stack development, and IoT systems**. I like building reliable, privacy-aware, and research-driven products that can move from prototype to practical use. My work combines **Python, Java, C++, JavaScript, ReactJS, SQL, and embedded systems** with a product engineering mindset.
+
+I enjoy solving real problems through end-to-end development, from data and model work to user-facing interfaces and system design. I am especially interested in **human activity recognition, LLM-assisted workflows, GraphRAG, and modern web applications**.
+
+### Open To
+- Software engineering internships and entry-level roles
+- AI/ML and applied research collaboration
+- Full-stack and product engineering opportunities
+- IoT and embedded sensing projects
+- Open source and hackathon collaboration
+
+</td>
+<td width="33%" align="center">
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGhxN3RmNnEydTBveTdyYTZramE3YWpjdTI4MXB5eTRrdWZrMGV3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ekjmhJUGHJm7FC4Juo/giphy.gif" width="330" alt="coding gif" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&perline=8" />
+</p>
+
+### Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind&perline=8" />
+</p>
+
+### Backend / Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,nodejs,mysql,mongodb,postgres&perline=8" />
+</p>
+
+### Cloud, DevOps & Tooling
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,postman,docker,vercel,aws&perline=8" />
+</p>
+
+### AI / ML / IoT
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,arduino,raspberrypi&perline=8" />
+</p>
+
+---
+
+## AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|---|---:|---|
+| Wi-Fi CSI based Human Activity Recognition | Advanced | Privacy-preserving sensing using ESP32 Wi-Fi CSI for multi-class activity recognition without cameras |
+| Classical Machine Learning | Advanced | Naive Bayes and scikit-learn pipelines with feature tuning and model evaluation |
+| Deep Learning | Intermediate | Applied deep learning concepts to CSI signals for improved activity classification |
+| LLM Integration | Intermediate | Generated natural-language captions from classified activities using language models |
+| GraphRAG | Exploring | Designing context-aware retrieval ideas for future captioning and reasoning workflows |
+
+---
+
+## Featured Projects
+
+<details open>
+<summary><strong>Human Activity Recognition Capturing Using Wi-Fi CSI and ESP32</strong></summary>
+
+A privacy-preserving indoor sensing system that uses **ESP32 Wi-Fi CSI** to detect human activities without cameras. The project combines signal processing, machine learning, deep learning, and LLM-based captioning to create a practical research prototype.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+|---|---|---|---|---|---|
+| ESP32, Wi-Fi CSI, Python, scikit-learn, Deep Learning, LLMs | Research prototype | Multi-class activity classification on CSI signals | Camera-free and privacy-preserving sensing | Foundation for context-aware activity understanding | [View Repository](https://github.com/mahigautam14?tab=repositories) |
+
+</details>
+
+<details>
+<summary><strong>Weather Detection using Naive Bayes</strong></summary>
+
+A machine learning project that classifies weather conditions using historical data and **Naive Bayes**. The work includes feature selection, model training, and hyperparameter tuning for improved accuracy.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+|---|---|---|---|---|---|
+| Python, scikit-learn, Naive Bayes | Academic ML project | Tuned parameters improved classification performance | Uses public historical data | Practical introduction to predictive modeling | [View Repository](https://github.com/mahigautam14?tab=repositories) |
+
+</details>
+
+<details>
+<summary><strong>Password Generator Website</strong></summary>
+
+A secure password generator built with a modern animated UI and responsive design. The project focuses on usability, clean front-end implementation, and client-side password generation.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+|---|---|---|---|---|---|
+| HTML5, CSS3, JavaScript | Frontend utility project | Fast client-side generation with responsive layout | Helps generate strong passwords locally | Useful security utility with polished UI | [View Repository](https://github.com/mahigautam14?tab=repositories) |
+
+</details>
+
+<details>
+<summary><strong>react-native-playground-backend-webrtcDemo</strong></summary>
+
+A real-time communication playground for backend signaling and WebRTC workflows. This project is useful for exploring low-latency communication patterns and full-stack integration in realtime applications.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+|---|---|---|---|---|---|
+| React Native, WebRTC, Node.js, TypeScript | Experimental demo | Low-latency signaling and communication flow | Session-based communication patterns | Strong learning and demo value for realtime systems | [View Repository](https://github.com/mahigautam14/react-native-playground-backend-webrtcDemo) |
+
+</details>
+
+---
+
+## Experience
+
+<details open>
+<summary><strong>Sales Executive</strong> — Aviation Industry | Apr 2023</summary>
+
+Managed client relationships and sales operations in the aviation sector, contributing to service excellence and business growth.
+
+**Scope of Work**
+- Managed customer interactions and relationship building
+- Supported sales processes and business communication
+- Contributed to service-focused operations in a client-driven environment
+
+**Skills**  
+`Sales` `Client Relations` `Communication` `Business Development` `Customer Handling`
+
+</details>
+
+<details>
+<summary><strong>Digital Marketing / Email Marketing</strong> | Oct 2023</summary>
+
+Executed digital marketing campaigns to improve brand awareness, engagement, and lead generation through targeted email workflows.
+
+**Scope of Work**
+- Designed and executed email-based marketing campaigns
+- Worked on engagement and lead generation strategies
+- Supported brand visibility through digital communication
+
+**Skills**  
+`Digital Marketing` `Email Marketing` `Campaign Execution` `Lead Generation` `Brand Awareness`
+
+</details>
+
+---
+
+## Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| Competitive Programming | Solved 100+ problems on LeetCode and 50+ on GeeksforGeeks |
+| HackerRank | Earned Problem Solving certification |
+| Full Stack Development | Completed Full Stack Web Development and C++ DSA Bootcamp (MysirG) |
+| CCC | Passed CCC examination with B Grade; certification received from Udemy |
+
+</div>
+
+---
+
+## Certifications
+
+### HackerRank
+<p align="center">
+  <img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</p>
+
+- Problem Solving Certification
+
+### MysirG
+<p align="center">
+  <img src="https://img.shields.io/badge/MysirG-Full%20Stack%20Web%20Development-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MysirG-C%2B%2B%20DSA%20Bootcamp-6366f1?style=for-the-badge" />
+</p>
+
+- Full Stack Web Development
+- C++ DSA Bootcamp
+
+### Udemy
+<p align="center">
+  <img src="https://img.shields.io/badge/Udemy-CCC%20Certification-a435f0?style=for-the-badge&logo=udemy&logoColor=white" />
+</p>
+
+- CCC examination with B Grade
+
+### LeetCode / GeeksforGeeks
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-50%2B%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</p>
+
+- Algorithmic problem solving practice and consistency
+
+---
+
+## Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/mahigautam14/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-mahigautam14-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/mahigautam14/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-mahigautam14-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/mahigautam14" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-mahigautam14-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/mahigautam14" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-mahigautam14-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mahigautam14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahigautam14&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mahigautam14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahigautam14&theme=tokyonight" alt="Profile Summary" />
+</p>
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahigautam14&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahigautam14&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahigautam14/mahigautam14/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahigautam14/mahigautam14/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/mahigautam14/mahigautam14/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+## Current Focus
+
+```yaml
+learning:
+  - Machine Learning
+  - Deep Learning
+  - LLMs
+  - GraphRAG
+  - ReactJS
+building:
+  - Human Activity Recognition Capturing Using Wi-Fi CSI and ESP32
+  - Weather Detection using Naive Bayes
+  - Password Generator Website
+  - react-native-playground-backend-webrtcDemo
+exploring:
+  - Privacy-preserving sensing systems
+  - Full-stack product engineering
+  - Research-to-production AI workflows
+open_to:
+  - Software engineering internships
+  - AI/ML collaborations
+  - Open source contributions
+  - Research opportunities
+```
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="mailto:mahigautam5521@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-mahigautam5521%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mahi-gautam-7b6508252/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-mahi--gautam--7b6508252-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/mahigautam14" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-mahigautam14-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/mahigautam14?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-GitHub%20Repositories-4f46e5?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Building reliable, privacy-aware software systems that turn research into practical impact.
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4f46e5,100:8b5cf6&height=140&section=footer&text=Thanks%20for%20visiting%20my%20profile&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
+</p>
